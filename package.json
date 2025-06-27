@@ -1,0 +1,25 @@
+{
+  "name": "paquete-estadistica-ga-cf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PacoBravo/paquete-estadistica-ga-cf"
+  },
+
+  "keywords": [],
+  "author": "Francisco Bravo",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/PacoBravo/paquete-estadistica-ga-cf/issues"
+  },
+  "homepage": "https://github.com/PacoBravo/paquete-estadistica-ga-cf#readme",
+  "description": "Funciones estadistica y generación de gráfica con Node.js"
+}
