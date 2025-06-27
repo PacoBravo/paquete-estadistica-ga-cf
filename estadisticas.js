@@ -1,5 +1,8 @@
 function promedio(arr) {
-    return arr.reduce((a, b) => a + b, 0) / arr.length;
+    //Condicional Si el arreglo no está vacio
+    if (!Array.isArray(arr) || arr.length === 0) {
+        return arr.reduce((a, b) => a + b, 0) / arr.length;
+    }
   }
   
   function desviacionEstandar(arr) {
