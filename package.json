@@ -20,6 +20,6 @@
   "bugs": {
     "url": "https://github.com/PacoBravo/paquete-estadistica-ga-cf/issues"
   },
-  "homepage": "https://github.com/PacoBravo/paquete-estadistica-ga-cf#readme"
+  "homepage": "https://github.com/PacoBravo/paquete-estadistica-ga-cf#readme",
   "description": "Funciones estadistica y generación de gráfica con Node.js"
 }
